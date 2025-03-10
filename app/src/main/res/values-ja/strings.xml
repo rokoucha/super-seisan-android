@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">スーパー精算</string>
+    <string name="hint_back_button">戻る</string>
+    <string name="label_currency_screen_title">為替レート</string>
+    <string name="hint_add_button">追加</string>
+    <string name="label_price_with_yen">%1$s 円</string>
+    <string name="hint_more_button">その他</string>
+    <string name="label_delete_button">削除</string>
+    <string name="label_currency_symbol_input">通貨</string>
+    <string name="label_currency_rate_input">レート</string>
+    <string name="label_cancel_button">キャンセル</string>
+    <string name="label_save_button">保存</string>
+    <string name="label_currency_section_headline">為替レート</string>
+    <string name="label_payment_item_section_headline">支払い項目</string>
+    <string name="label_result_section_headline">割り勘結果</string>
+    <string name="label_result_surplus">余り</string>
+    <string name="label_yen_symbol">円</string>
+    <string name="hint_close_button">閉じる</string>
+    <string name="label_name_input">名前</string>
+    <string name="label_payer_input">支払い主</string>
+    <string name="label_price_input">価格</string>
+    <string name="label_quantity_input">量</string>
+    <string name="hint_payer_section">支払い主</string>
+    <string name="hint_quantity_section">量</string>
+    <string name="hint_exempts_section">支払い免除</string>
+    <string name="hint_remove_button">削除</string>
+    <string name="label_add_exempt_button">支払い免除者を追加</string>
+    <string name="label_yen_currency_code">JPY</string>
+    <string name="label_create_button">作成</string>
+    <string name="label_participant_screen_title">支払い関係者</string>
+    <string name="label_result_screen_title">割り勘結果: %1$s</string>
+    <string name="label_expenditures">支出計</string>
+    <string name="label_payments">支払い計</string>
+    <string name="label_differences">差額</string>
+    <string name="label_result_items_headline">支払い項目</string>
+    <string name="label_payment_item_empty_message">支払い項目を追加して割り勘を始めましょう</string>
+    <string name="label_participant_section_headline">支払い関係者</string>
+    <string name="label_participant_section_empty_message">メニューから支払い関係者を追加しましょう</string>
+    <string name="label_payer_edit_participant_is_empty_message">先に支払い関係者を追加してください</string>
+    <string name="label_quantity_input_label">計</string>
+</resources>
